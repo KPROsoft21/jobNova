@@ -1,12 +1,11 @@
 <div align="center">
-<img width="155" height="48" alt="Screenshot 2026-01-03 at 8 30 38 PM" src="https://github.com/user-attachments/assets/7af11079-cf31-4767-9f27-9cdbdad98aab" />
+<img width="1550" height="480" alt="Screenshot 2026-01-03 at 8 30 38 PM" src="https://github.com/user-attachments/assets/7af11079-cf31-4767-9f27-9cdbdad98aab" />
 </div>
 
-# Run and deploy your AI Studio app
+# JOBNOVA
 
-This contains everything you need to run your app locally.
+This is a quick frontend test for a job application site.
 
-View your app in AI Studio: https://ai.studio/apps/temp/2
 
 ## Run Locally
 
@@ -15,8 +14,7 @@ View your app in AI Studio: https://ai.studio/apps/temp/2
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
 
 ## quick look
